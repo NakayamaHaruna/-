@@ -13,6 +13,6 @@
 | 2019年9月26日 | 改めてプロットを作成する |
 | 2019年12月31日 | [初稿](https://github.com/NakayamaHaruna/shirokabi/blob/history/shirokabi1)を『ことばと』の公募に出す |
 | 2020年8月20日 | ホームページ「無重力、四丁目。」に公開 |
-| 2020年10月25日 | 第2稿（主にラストを修正） |
-| 2021年1月28日 | 第3稿（細部に修正を加える） |
+| 2020年10月25日 | [第2稿](https://github.com/NakayamaHaruna/shirokabi/blob/history/shirokabi2)（主にラストを修正） |
+| 2021年1月28日 | [第3稿](https://github.com/NakayamaHaruna/shirokabi/blob/history/shirokabi3)（細部に修正を加える） |
 | 2021年5月4日 | 第3稿をGitHub上に公開 |
