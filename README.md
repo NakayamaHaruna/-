@@ -10,7 +10,7 @@
 | 2019年1月23日 | 作品の着想を得る |
 | 2019年1月25日 | 作品を書き始める |
 | 2019年7月16日 | ゼミの課題として途中経過を提出 |
-| 2019年9月26日 | 改めてプロットを作成する |
+| 2019年9月26日 | 改めて[プロット](https://github.com/NakayamaHaruna/shirokabi/blob/plot/plot1)を作成する |
 | 2019年12月31日 | [初稿](https://github.com/NakayamaHaruna/shirokabi/blob/history/shirokabi1)を『ことばと』の公募に出す |
 | 2020年8月20日 | ホームページ「無重力、四丁目。」に公開 |
 | 2020年10月25日 | [第2稿](https://github.com/NakayamaHaruna/shirokabi/blob/history/shirokabi2)（主にラストを修正） |
